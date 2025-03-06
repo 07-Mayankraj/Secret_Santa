@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "fast-csv": "^5.0.2",
+    "fs": "^0.0.1-security",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
